@@ -36,4 +36,7 @@ Bonus features include Redis caching for WordPress, an FTP server for managing W
 Useful commands for managing the project:  
 Check logs: `docker logs nginx`, `docker logs wordpress`, `docker logs mariadb`.  
 Enter a running container: `docker exec -it wordpress sh`, `docker exec -it mariadb mariadb -u root -p`.  
-List running containers: `docker ps`.  
+List running containers: `docker ps`.
+
+GREAT GUIDE with examples and EXPLANATIONS:
+`https://github.com/codesshaman/inception/blob/main/00_INSTALL_SYSTEM.md`
